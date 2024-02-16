@@ -1,0 +1,134 @@
+body {
+        font-family: "Merriweather", serif;
+        font-style: normal;
+    }
+
+/* Header related style */
+
+.header {
+    color: white;
+    background-image: url(resources/Banner\ Image.png);
+    background-size: cover;
+    width: 1320px;
+    height: 600px;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.banner-gretting{
+color: #FFF;
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400;
+margin-bottom: 0px;
+
+
+}
+
+.banner-title{
+color: #FFF;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+
+}
+
+.banner-content{
+    padding-top: 90px;
+    
+}
+
+/* catagories section design */
+
+/* .catagories {
+    width: 1600px;
+    height: 7335px;
+    align-items: center;
+    margin: auto;
+} */
+
+.off{
+color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 0px;
+}
+
+.holiday{
+color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+
+.all{
+color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 0px;
+}
+
+.happy{
+    margin-left: 350px;
+}
+
+
+/* vector section */
+
+.midnight{
+    color: white;
+    background-image: url(resources/Vectorrr.png);
+    background-size: cover;
+    width: 1320px;
+    height: 600px;
+    margin: auto;
+    
+}
+
+.vector{
+    padding: 150px;
+    margin-top: 100px;
+}
+
+.party{
+color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 7.04px;
+margin-bottom: 0px;
+}
+
+.paragraph{
+color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+margin-top: 0px;
+}
+
+.join{
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
