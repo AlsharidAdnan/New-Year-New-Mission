@@ -132,3 +132,112 @@ font-weight: 700;
 line-height: normal;
 text-transform: uppercase;
 }
+
+/* coming soon section */
+
+.coming-soon {
+    display: flex;
+  align-items: center;
+  gap: 80px;
+  padding-left: 90px;
+    margin-top: 100px;
+    max-width: 1320px;
+}
+
+.round {
+    border: 5px solid red;
+    border-radius: 180px;
+}
+
+.best {
+ color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+
+}
+
+.soon{
+color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+text-transform: capitalize;
+
+}
+
+.offer {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    
+}
+
+.years {
+color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.wish{
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px
+}
+
+
+/* portfolio section */
+
+.portfolio{
+width: 1600px;
+margin-left: 100px;
+margin-top: 100px;
+}
+
+.gift{
+color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.awesome{
+color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.gall{
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+
+.subscribe{
+width: 1320px;
+height: 616px;
+padding-left: 100px;
+background-color: antiquewhite;
+align-items: center;
+}
+
