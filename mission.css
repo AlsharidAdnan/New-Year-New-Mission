@@ -241,3 +241,24 @@ background-color: antiquewhite;
 align-items: center;
 }
 
+.first{
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+}
+
+.footer{
+    background-color: #070211;
+}
+.white{
+    color: #FFF;
+}
+
+.icon {
+    align-items: center;
+}
+.last {
+    display: flex;
+    color: #FFF;
+    justify-content: space-between;
+}
